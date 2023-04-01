@@ -1,0 +1,172 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Visit Japan Web",
+      "image": "file:///android_asset/image/1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Visit Japan Web",
+      "title": "About Visit Japan Web",
+      "image": "file:///android_asset/image/1.jpg",
+      "description": "Visit Japan Web is a web service for smooth arrival procedure at airport.",
+      "link": "file:///android_asset/guide/About Visit Japan Web.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Visit Japan Web",
+      "title": "Adding Your Child",
+      "image": "file:///android_asset/image/2.jpg",
+      "description": "If you’re traveling with children, you can add them to your Visit Japan Web account",
+      "link": "file:///android_asset/guide/Adding Your Child.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Visit Japan Web",
+      "title": "COVID Vaccination Certificate",
+      "image": "file:///android_asset/image/3.jpg",
+      "description": "If you have been fully vaccinated, go ahead and click on Vaccination certificate.",
+      "link": "file:///android_asset/guide/COVID Vaccination Certificate.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Visit Japan Web",
+      "title": "Frequently Asked Questions",
+      "image": "file:///android_asset/image/4.jpg",
+      "description": "You can start the Fast Track process as early as you want, as long as you complete",
+      "link": "file:///android_asset/guide/COVID Vaccination Certificate.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Visit Japan Web",
+      "title": "How To Use Visit Japan Web",
+      "image": "file:///android_asset/image/5.jpg",
+      "description": "Before boarding flight to Japan : STEP 0  Create Account  Login, STEP 1  Register user information",
+      "link": "file:///android_asset/guide/How To Use Visit Japan Web.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Visit Japan Web",
+      "title": "Immigration Steps",
+      "image": "file:///android_asset/image/6.jpg",
+      "description": "There are a few more things you could do on Visit Japan Web to make your arrival even smoother",
+      "link": "file:///android_asset/guide/Immigration Steps.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Visit Japan Web",
+      "title": "Instructions Visit Japan Web",
+      "image": "file:///android_asset/image/7.jpg",
+      "description": "Create your account and login. Your Email address is required.",
+      "link": "file:///android_asset/guide/Instructions Visit Japan Web.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Visit Japan Web",
+      "title": "Quarantine Procedures",
+      "image": "file:///android_asset/image/8.jpg",
+      "description": "Once the trip has been registered, go ahead and click on the trip. In the screenshot below",
+      "link": "file:///android_asset/guide/Quarantine Procedures.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Visit Japan Web",
+      "title": "Register Account",
+      "image": "file:///android_asset/image/9.jpg",
+      "description": "Account registration is free and very straightforward. Just create an account with your email",
+      "link": "file:///android_asset/guide/Register Account.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Visit Japan Web",
+      "title": "Register For Trip",
+      "image": "file:///android_asset/image/10.jpg",
+      "description": "You can do this for each trip you’ll be taking to Japan, if you’re planning to go more than once.",
+      "link": "file:///android_asset/guide/Register For Trip.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Visit Japan Web",
+      "title": "Register Visitor",
+      "image": "file:///android_asset/image/11.jpg",
+      "description": "Once you have your account set up, proceed to log in with the password you’ve set in Step 1",
+      "link": "file:///android_asset/guide/Register Visitor.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Visit Japan Web",
+      "title": "What is Fast Track",
+      "image": "file:///android_asset/image/12.jpg",
+      "description": "Now, what is Fast Track? Fast Track is a way to handle COVID-related quarantine procedures on Visit",
+      "link": "file:///android_asset/guide/What is Fast Track.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Visit Japan Web",
+      "title": "What is Visit Japan Web",
+      "image": "file:///android_asset/image/13.jpg",
+      "description": "Visit Japan Web is Japan’s online service for immigration procedures and customs declarations,",
+      "link": "file:///android_asset/guide/What is Visit Japan Web.html"
+    }
+  ]
+}
