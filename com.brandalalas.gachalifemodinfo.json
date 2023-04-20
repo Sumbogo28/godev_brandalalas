@@ -1,0 +1,220 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": false
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Visit Japan Web",
+      "image": "file:///android_asset/image/1.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Gacha Information",
+      "title": "Understand The Gacha Mechanics",
+      "image": "file:///android_asset/image/1.png",
+      "description": "Gacha games often use a random draw system where players can spend in-game",
+      "link": "file:///android_asset/guide/Understand The Gacha Mechanics.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Gacha Information",
+      "title": "Choose Your Gacha Banner Wisely",
+      "image": "file:///android_asset/image/2.png",
+      "description": "Most gacha games will have special banners that offer increased rates",
+      "link": "file:///android_asset/guide/Choose Your Gacha Banner Wisely.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Gacha Information",
+      "title": "Build a Balanced Team",
+      "image": "file:///android_asset/image/3.png",
+      "description": "In most gacha games, you'll need to build a team of characters to",
+      "link": "file:///android_asset/guide/Build a Balanced Team.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Gacha Information",
+      "title": "Take Advantage Of Events",
+      "image": "file:///android_asset/image/4.png",
+      "description": "Gacha games often have special events where players can earn extra rewards",
+      "link": "file:///android_asset/guide/Take Advantage Of Events.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Gacha Information",
+      "title": "Joining a Community",
+      "image": "file:///android_asset/image/5.png",
+      "description": "Join a community Like any other game gacha games",
+      "link": "file:///android_asset/guide/Joining a Community.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Gacha Information",
+      "title": "Have Fun",
+      "image": "file:///android_asset/image/6.png",
+      "description": "Finally, remember to have fun! Gacha games can be addictive so make sure to take",
+      "link": "file:///android_asset/guide/Have Fun.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Gacha Information",
+      "title": "Prepare Enough Primogems",
+      "image": "file:///android_asset/image/7.png",
+      "description": "Genshin Impact's gacha exchange tool is an item called Primogems. Later for the Gacha",
+      "link": "file:///android_asset/guide/Prepare Enough Primogems.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Gacha Information",
+      "title": "Don't Mistaken Between Intertwined Fate and Acquaint Fate",
+      "image": "file:///android_asset/image/8.png",
+      "description": "These Primogems will later also be exchanged for another item called Acquaint Fate with",
+      "link": "file:///android_asset/guide/Don't Mistaken Between Intertwined Fate and Acquaint Fate.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Gacha Information",
+      "title": "Pay attention to Genshin Impact's Pity Gacha System",
+      "image": "file:///android_asset/image/9.png",
+      "description": "Gacha Impact is quite unique in that you will be given a system that is not available in other gacha",
+      "link": "file:///android_asset/guide/Pay attention to Genshin Impact's Pity Gacha System.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Gacha Information",
+      "title": "Pay attention to the Status Rate On and Rate Off Banners",
+      "image": "file:///android_asset/image/10.png",
+      "description": "Although there is a system pity in Genshin Impact gacha, you have to be careful.",
+      "link": "file:///android_asset/guide/Pay attention to Genshin Impact's Pity Gacha System.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Gacha Information",
+      "title": "Don't Save Pity from Other Banners",
+      "image": "file:///android_asset/image/11.png",
+      "description": "The classic mistake that players often make is saving money pity.",
+      "link": "file:///android_asset/guide/Don't Save Pity from Other Banners.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Gacha Information",
+      "title": "Learn To Level Up In Gacha Life",
+      "image": "file:///android_asset/image/12.png",
+      "description": "Raising the friendship level of characters in Gacha Life increases the main level of the player",
+      "link": "file:///android_asset/guide/Learn To Level Up In Gacha Life.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Gacha Information",
+      "title": "How to earn stamina points in Gacha Life",
+      "image": "file:///android_asset/image/13.png",
+      "description": "Skit Maker is an amazing feature of the Gacha Life game that lets you design own",
+      "link": "file:///android_asset/guide/How to earn stamina points in Gacha Life.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Gacha Information",
+      "title": "Design Your Skit In Gacha Life With Skit Maker",
+      "image": "file:///android_asset/image/14.png",
+      "description": "Skit Maker is an amazing feature of the Gacha Life game that lets you design own",
+      "link": "file:///android_asset/guide/Design Your Skit In Gacha Life With Skit Maker.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Gacha Information",
+      "title": "Learn To Edit The Profile Of Each Character",
+      "image": "file:///android_asset/image/15.png",
+      "description": "On the left side of the home screen, you can check the characters in eight different character",
+      "link": "file:///android_asset/guide/Learn To Edit The Profile Of Each Character.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Gacha Information",
+      "title": "Master The Quiz In Gacha Life",
+      "image": "file:///android_asset/image/16.png",
+      "description": "In Gacha Life, when playing a quiz with the characters, you will be asked the questions",
+      "link": "file:///android_asset/guide/Master The Quiz In Gacha Life.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Gacha Information",
+      "title": "Check Out The Studio Mode",
+      "image": "file:///android_asset/image/17.png",
+      "description": "In the studio mode, you can add characters, props, quotes, emotes, background, etc. and save the moment.",
+      "link": "file:///android_asset/guide/Check Out The Studio Mode.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Gacha Information",
+      "title": "Gacha Collection In Gacha Life",
+      "image": "file:///android_asset/image/18.png",
+      "description": "Head to the gacha menu and tap the collection button. There you can check all the gift items",
+      "link": "file:///android_asset/guide/Gacha Collection In Gacha Life.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Gacha Information",
+      "title": "Check out All The Travel Destinations",
+      "image": "file:///android_asset/image/19.png",
+      "description": "In the Life Mode, tap the travel location button in the top-right -> from there you can travel across",
+      "link": "file:///android_asset/guide/Check out All The Travel Destinations.html"
+    }
+  ]
+}
